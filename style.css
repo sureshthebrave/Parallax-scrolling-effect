@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pse1{
+    height: 200vh;
+}
+
+.pse{
+    background-image: url("image/india.png");
+    width: 100%;
+    height: 100vh;
+    color: springgreen;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    transition: 2s;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+    position: absolute;
+    top: 60%;
+    left: 38%;
+}
